@@ -1,6 +1,7 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://github.com/mahmoodhafez1260-creator/happybirthday)
+[Demo](https://mahmoodhafez1260-creator.github.io/happybirthday/)
+
 
 ## 🚀 How to Use
 
